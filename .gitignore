@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+
+# Editor files
+.vscode/
+*.swp
+*~
+
+# OS-specific files
+.DS_Store
+.directory
+.Trash-*
+
+# Chrome Extension specific
+*.crx
+*.pem
